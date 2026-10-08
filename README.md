@@ -39,7 +39,7 @@
 | Random Forest | 0.656 | 45.9% | 15.6% |
 | Gradient Boosting | 0.649 | 53.9% | 13.9% |
 
-![Risk deciles](images/risk_deciles.png)
+![Risk deciles](risk_deciles.png)
 
 The 20% of patients with the highest predicted risk accounted for **39%** of all actual readmissions.
 [In your own words: how a care team could use this ranking.]
