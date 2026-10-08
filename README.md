@@ -1,5 +1,31 @@
 # Hospital-readmission-prediction
 
+## Introduction
+
+When a patient is discharged from hospital and returns within 30 days, it is called a
+**30-day readmission**. Many of these return visits can be prevented with better discharge
+planning, follow-up appointments and medication support. Readmissions are hard on patients
+and expensive for the healthcare system. In the US, the Centers for Medicare & Medicaid
+Services (CMS) also reduces payments to hospitals with higher-than-expected readmission
+rates through the Hospital Readmissions Reduction Program.
+
+A related problem is **frequent emergency room use**. A small group of patients visits the ER
+again and again, often for issues that could be managed earlier through primary care or
+care coordination.
+
+## Problem Statement
+
+Care teams have limited time and cannot give intensive follow-up to every discharged patient.
+They need a way to identify, at the point of discharge, **which patients are most likely to
+return to hospital within 30 days**, so that support can go where it will have the most impact.
+
+## Objectives
+
+1. Explore the data to understand which patient and hospital-stay factors are linked to readmission
+2. Profile frequent ER users and check whether they are also more likely to be readmitted
+3. Build and compare machine learning models that predict 30-day readmission risk
+4. Rank patients into risk groups a care team could use to prioritise follow-up
+
 # Predicting 30-Day Hospital Readmissions
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Covpet/hospital-readmission-prediction/blob/main/hospital_readmission_analysis.ipynb)
