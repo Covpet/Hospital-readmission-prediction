@@ -24,7 +24,7 @@
 
 ## Key findings
 
-![Readmission by discharge destination](images/discharge.png)
+![Readmission by discharge destination](Read.png)
 
 - Patients with 2+ inpatient stays in the prior year were readmitted at **21.5%**, against **8.1%** with none
 - Patients discharged to skilled nursing, rehab or long-term care were readmitted at **15.2%**, against **6.9%** for those sent home
