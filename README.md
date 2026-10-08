@@ -1,4 +1,4 @@
-# Hospital-readmission-prediction
+# Hospital Readmission Prediction
 
 ## Introduction
 
